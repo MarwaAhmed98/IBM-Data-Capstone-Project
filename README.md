@@ -1,2 +1,2 @@
-# IBM-Data-Capstone-Project
-Battle of Neighborhoods in Toronto 
+# IBM Capstone Course- Clustering 
+Clustering Neighborhood in NYC
